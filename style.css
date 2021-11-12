@@ -63,10 +63,10 @@ body {
 
 .imagebox-content {
     position: relative;
-    max-height: 720px;
+    max-height: 960px;
     width: 70%;
     height: 70%;
-    margin: 10% auto;
+    margin: 5% auto;
     background-color: black;
     border: 2px solid white;
     border-radius: 10px;
