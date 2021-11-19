@@ -21,6 +21,17 @@ imageboxContent.appendChild(imageboxPrev);
 imageboxContent.appendChild(imageboxNext);
 imageboxContent.appendChild(imagePreviewbox);
 document.body.appendChild(imageboxContainer);
+/* 
+    <div class="imagebox">
+        <div class="imagebox-content">
+            <img>
+            <div class="fa fa-arrow-left imagebox-prev" style="font-size:30px;"></div>
+            <div class="fa fa-arrow-right imagebox-next" style="font-size:30px;></div>
+            <div class="image-box-preview"></div>
+        </div>
+    </div>
+*/
+
 
 imagePreviewbox.innerText="Put preview image here......";  /* ********** */
 
